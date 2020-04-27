@@ -21,3 +21,13 @@ put it all together to represent 4.25 efficiently "
 
 An epic battle ensued where I was told that one should not waste time optimizing such a trivial thing. My argument was that a bitfield is not a hard thing to implement and can be done legibly and is worth it for size and performance savings. I wrote some code to compare performance and space usage because it's quarantine time and i'm bored.
 
+results:
+
+who was faster?
+OP:82 ticks
+Mike:34 ticks
+
+who used more memory?
+OP:16 Bytes
+Mike:4 Bytes
+
